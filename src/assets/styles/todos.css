@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.todoList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.todoList li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.taskDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
